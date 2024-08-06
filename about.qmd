@@ -13,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Ashil-James
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/ashil_james14?igsh=M253dzI3aGs4cXZs
 
 ---
 
